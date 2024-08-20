@@ -1,0 +1,33 @@
+body{
+  
+    background-image: url("https://wallpaperbat.com/img/9768941-4k-harry-potter-wallpaper-smart-tv.jpg");
+    height: 100vh;
+    background-position:center;
+    background-size:100% 100%;
+   background-repeat: no-repeat;
+}
+.para{
+    color: #33ccff
+}
+.button1{
+    margin-top: 30px;
+    background-color: #ff99cc;
+    color:rgb(18, 1, 1);
+    padding:5px;
+    border-radius: 5px;
+    border:none;
+}
+.button1:hover{
+    background-color: aliceblue;
+}
+.text{
+    color:#f8e231;
+}
+.button2{
+    background-color: #f8e231;
+    border:none;
+    border-radius: 5px;
+}
+.button2:hover{
+   background-color: #f9eb80;
+}

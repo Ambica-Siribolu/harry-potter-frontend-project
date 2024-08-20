@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(60, 77, 77);
+    overflow: scroll;
+    background-image: none;
+}
+.box{
+  border: 1px groove rgb(5, 55, 235) ;
+    border-radius: 10px;
+    color:rgb(71, 2, 136);
+    transition: transform 0.2s ease-in-out;
+    box-shadow:0 0 5px rgb(39, 1, 47);
+}
+.box:hover{
+    transform:scale(0.95);
+}
+

@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.character{
+    background-color: aliceblue;
+    height:25%;
+    width:25%;
+    padding:0 20px;
+}
+.character:hover{
+  transform :scale(1.1);
+}
+.image{
+    border-radius: 10px;
+    width:50%;
+    height:50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
